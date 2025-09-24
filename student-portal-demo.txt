@@ -1,5 +1,5 @@
 Name:Chandrani Janaki Latha
 Roll: 02
 Course:BSC-CS-C
-SUC: 2348390460
+SUC code: 2348390460
 Hall Ticket Number:230817170032
